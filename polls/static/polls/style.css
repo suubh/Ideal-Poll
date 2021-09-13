@@ -1,0 +1,29 @@
+li a {
+    color: black;
+    font-size: 20px;
+    line-height: 40px;
+    align-content: center;
+    text-decoration: none;
+    text-align: center;
+    
+}
+ul{
+        list-style: none;
+         background: #CAD5E2;
+         border-radius: 40px;
+}
+.hello{
+    text-align: center;
+}
+.inside{
+   
+   
+}
+body {
+    background: white url("images/background.png") no-repeat;
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
+h1{
+    text-align: center;
+}
