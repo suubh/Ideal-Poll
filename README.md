@@ -1,5 +1,5 @@
 # Ideal-Poll
-A poll web app using Django 
+A poll web app using Django.([Guide](https://docs.djangoproject.com/en/3.2/intro/tutorial01/))
 
 ## To try 
 - Clone the repository.
